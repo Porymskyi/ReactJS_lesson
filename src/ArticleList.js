@@ -12,5 +12,3 @@ export default function ArticleList({articles}) {
     
 }
 
-//first lesson
-//test1
